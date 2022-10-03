@@ -1,10 +1,4 @@
 
-/**
-* 2022 CS151 Programming Assignment 2 Solution
-* @author Rachel Liao
-* @version 1.0 09/30/2022
-*/
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
