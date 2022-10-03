@@ -1,8 +1,3 @@
-/**
-* 2022 CS151 Programming Assignment 2 Solution
-* @author Rachel Liao
-* @version 1.0 09/30/2022
-*/
 
 /**
  * Reservation contains name, service class, seat, group name, if reserved, if
